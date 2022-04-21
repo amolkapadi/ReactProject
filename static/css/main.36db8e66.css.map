@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.36db8e66.css","mappings":"AAAA,aAEI,cAAe,CADf,iBAEJ,CACA,YACI,UACJ","sources":["App.css"],"sourcesContent":[".center-text{\r\n    text-align: center;\r\n    font-size: 30px;\r\n}\r\n.React-text{\r\n    color: blue;\r\n}"],"names":[],"sourceRoot":""}

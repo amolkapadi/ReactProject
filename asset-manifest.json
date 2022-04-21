@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//github.com/amolkapadi/ReactProject.git.github.io/static/css/main.36db8e66.css",
+    "main.js": "//github.com/amolkapadi/ReactProject.git.github.io/static/js/main.e80ce566.js",
+    "index.html": "//github.com/amolkapadi/ReactProject.git.github.io/index.html",
+    "main.36db8e66.css.map": "//github.com/amolkapadi/ReactProject.git.github.io/static/css/main.36db8e66.css.map",
+    "main.e80ce566.js.map": "//github.com/amolkapadi/ReactProject.git.github.io/static/js/main.e80ce566.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36db8e66.css",
+    "static/js/main.e80ce566.js"
+  ]
+}
